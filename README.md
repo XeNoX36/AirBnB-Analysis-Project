@@ -83,7 +83,7 @@ Consider policies for commercial hosts to maintain market fairness.
 
 Provide dynamic pricing insights to new hosts in low-review neighbourhoods.  
 
-For Travelers
+For Travelers  
 Best affordability in Queens and Bronx.
 
 Brooklyn offers optimal value-for-money with good accessibility.
