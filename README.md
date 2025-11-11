@@ -36,25 +36,28 @@ Ensuring data types were accurate allowed for correct aggregation and plotting
 
 Price Distribution:  
 
-![]()  
+![](https://github.com/XeNoX36/AirBnB-Analysis-Project/blob/main/price.png)  
 
 Neighbourhood Price Distribution  
 
-![]()  
+![](https://github.com/XeNoX36/AirBnB-Analysis-Project/blob/main/neighborhood.png)  
 
 Availability-365
 
-![]()  
+![](https://github.com/XeNoX36/AirBnB-Analysis-Project/blob/main/availability.png)  
 
 **Bivariate Analysis**  
 Review & Availability Patterns
 
-![]()  
+![](https://github.com/XeNoX36/AirBnB-Analysis-Project/blob/main/reviews.png)  
 
+Geographical Distribution
+
+![](https://github.com/XeNoX36/AirBnB-Analysis-Project/blob/main/geo.png)
 
 **Multivariate Analysis**  
 
-![]()  
+![](https://github.com/XeNoX36/AirBnB-Analysis-Project/blob/main/multi.png)  
 
 
 **4. Key Insights & Findings**  
